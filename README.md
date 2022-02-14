@@ -1,6 +1,6 @@
 # MOVIE DIARIES
 
-### [Hereko Deploy of the Project](https://movie-diary-dilekiremozbay.herokuapp.com/login)
+### [DEMO](https://movie-diary-dilekiremozbay.herokuapp.com/login)
 
 <br/>
 
